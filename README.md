@@ -1,0 +1,2 @@
+# mega-sniffle
+Django practice. 
