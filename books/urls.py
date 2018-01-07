@@ -17,5 +17,6 @@ from django.contrib import admin
 from django.urls impor
 
 urlpatterns = [
-    url(r'^$', views.index,name='index'),
+    url(r'^', views.index,name='index'),
+    url(r'^books/', include('books.urls')),
 ]
