@@ -115,6 +115,7 @@ USE_TZ = True
 
 #laser focus
 #and endless commitment
+#and an iron will
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
