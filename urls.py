@@ -21,3 +21,5 @@ urlpatterns = [
     url(r'^', views.index,name='index'),
     url(r'^books/', include('books.urls')),
 ]
+#adding a comment to practice with brances via the command line interface
+#another comment to change adding multiple changes to the same PR
